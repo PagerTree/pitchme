@@ -11,9 +11,9 @@
 IT Operations Groups are responsible for maintaining 99.999% uptime for business applications.
 
 Every minute of downtime [costs](https://pagertree.com/wp-content/uploads/2017/06/cost-of-it-outage.pdf):
-- Business Money
-- Employee Time
-- Customer Trust
+* Business Money
+* Employee Time
+* Customer Trust
 
 
 ---
@@ -23,78 +23,77 @@ Every minute of downtime [costs](https://pagertree.com/wp-content/uploads/2017/0
 Reduce downtime by connecting all monitoring systems, aggregating alerts to a single place, and making sure you always receive the alert.
 
 Key Features
-- On-Call Schedules & Escalation Rules
-- Reliable Alerts (SMS, Email, Voice, Push)
-- 3rd Party integrations
-- Performance Analytics
+* On-Call Schedules & Escalation Rules
+* Reliable Alerts (SMS, Email, Voice, Push)
+* 3rd Party integrations
+* Performance Analytics
 
 ---
 
 ### Market Opportunity
 
 Who uses PagerTree?
-- [SaaS Companies](http://www.ironpaper.com/webintel/articles/saas-market-size-forecast/)
-  - Market Size $37.7B
-  - Growth 20.3%
-  - Forecast $164B (2022)
-- [Hosting Companies](https://www.ibisworld.com/industry-trends/specialized-market-research-reports/technology/computer-services/internet-hosting-services.html)
-  - Revenue $20B
-  - Growth 7.1%
-- Business w/ internal IT Department
+* [SaaS Companies](http://www.ironpaper.com/webintel/articles/saas-market-size-forecast/)
+  * Market Size $37.7B
+  * Growth 20.3%
+  * Forecast $164B (2022)
+* [Hosting Companies](https://www.ibisworld.com/industry-trends/specialized-market-research-reports/technology/computer-services/internet-hosting-services.html)
+  * Revenue $20B
+  * Growth 7.1%
+* Business w/ internal IT Department
 
 ---
 
 ### Business Model
 
-- SaaS Subscription
-  - Software sold on a /user/month basis
-- Who we target
-  - SaaS Companies (10+ people)
-  - Internal IT Departments (50+ people)
+* SaaS Subscription
+  * Software sold on a /user/month basis
+* Who we target
+  * SaaS Companies (10+ people)
+  * Internal IT Departments (50+ people)
 
 ---
 
 ### Go To Market
 
-- Funding
+* Funding
   - Bootstrapped
-- Competitive Advantage
-  - No bloatware
-  - Most cost effective
-  - Easiest to use
-- Growing Revenue
-  - Partners / Influencers
-  - Inbound Marketing (Blog + Education)
-  - Referral Program (Organic + Paid)
+* Competitive Advantage
+  * No bloatware
+  * Most cost effective
+  * Easiest to use
+* Growing Revenue
+  * Partners / Influencers
+  * Inbound Marketing (Blog + Education)
+  * Referral Program (Organic + Paid)
 
 ---
 
 ### Traction
-- Channels
-  - SEO & SEM
-  - Email Marketing
-  - Trade Shows
-  - Community Building
-- Since Launch (April '17)
-  - 18 Signups
-  - 4 Loyal Customers
+* Channels
+  * SEO & SEM (Proven)
+  * Email Marketing (Proven)
+  * Trade Shows
+* Since Launch (April '17)
+  * 18 Signups
+  * 4 Loyal Customers
 
 ---
 
 ### Outlook and Vision
 
-- Lifestyle Business
-  - Build highest quality on-call tool
-  - Build small team 15-20 highly motivated individuals
-  - Build a great working environment
-  - Build community outreach (volunteer and mentor)
-- 2017 Goals
-  - 50 Companies / 1000 users / 4 (200+ user) accounts
-  - Build founding team
-- 5-7 Year Goal
-  - 2,000 companies ~ 20 users = 40,000 users
-  - 40,000 users * $10 subscription = $400,000 / month
-  - $400,000/month = $4.8M/year
+* Lifestyle Business
+  * Build highest quality on-call tool
+  * Build small team 15-20 highly motivated individuals
+  * Build a great working environment
+  * Build community outreach (volunteer and mentor)
+* 2017 Goals
+  * 50 Companies / 1000 users / 4 (200+ user) accounts
+  * Build founding team
+* 5-7 Year Goal
+  * 2,000 companies ~ 20 users = 40,000 users
+  * 40,000 users * $10 subscription = $400,000 / month
+  * $400,000/month = $4.8M/year
 
 ---
 
@@ -107,16 +106,18 @@ PagerTree reduces downtime by connecting all monitoring systems, aggregating ale
 
 +++
 ### How you can help
-- Customer Referrals
-- 2 Business Partners
-  - Mentor / Strategic Vision / Experience
-  - Developer / Marketing / Customer Support
+* Customer Referrals
+* 2 Business Partners
+  * Mentor / Strategic Vision / Experience
+  * Developer / Marketing / Customer Support
 
 +++
 ### Competitors
-PagerDuty ($14.8M) - San Francisco, CA
-VictorOps ($4.8M) - Boulder, CO
-OpsGenie ($3M) - Falls Church, VA
+Company | Annual Revenue | Headquarters
+--------|----------------| ------------
+PagerDuty | ($14.8M) | San Francisco, CA
+VictorOps | ($4.8M) | Boulder, CO
+OpsGenie | ($3M) | Falls Church, VA
 +++
 #### How PagerTree Works
 

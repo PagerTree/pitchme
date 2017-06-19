@@ -3,6 +3,6 @@ logo : assets/pagertree_black_transparent@85px_h.png
 footnote : "© PagerTree LLC."
 slide-number: true
 transition : slide # convex, concave, default, fade, none, slide, zoom
-vertical-center : false
+vertical-center : true
 
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
