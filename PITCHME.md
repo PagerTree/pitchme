@@ -79,20 +79,21 @@ Who uses PagerTree?
   * 4 Loyal Customers
 
 ---
-
-### Outlook & Vision
-
-* Lifestyle Business
-  * Highest quality on-call tool
-  * Small team (15-20 people)
-  * Great work environment
-  * Community outreach
+### Goals
 * 2017 Goals
   * 50 companies, 1000 users, 4 (200+ user) accounts
   * Build founding team
 * 5-7 Year Goal
   * 2,000 companies, 40,000 users
   * 40,000 users * $10 subscription = $400,000 / month = $4.8M/year
+---
+
+### Outlook
+* Lifestyle Business
+  * Highest quality on-call tool
+  * Small team (15-20 people)
+  * Great work environment
+  * Community outreach
 
 ---
 
@@ -126,15 +127,18 @@ OpsGenie | $3M | Falls Church, VA
 +++
 
 ### Integrations
+   |   |
+---|---|---
 ![AWS Web Services](https://cdn.pagertree.com/wp-content/uploads/2017/03/aws-cropped.png)
 ![APEX Ping](https://cdn.pagertree.com/wp-content/uploads/2017/03/apexping-cropped-1.png)
 ![AppDynamics](https://cdn.pagertree.com/wp-content/uploads/2017/03/appdynamics-cropped.png)
+|
 ![Datadog](https://cdn.pagertree.com/wp-content/uploads/2017/03/datadog-logo-512-150.png)
 ![Freshservice](https://cdn.pagertree.com/wp-content/uploads/2017/03/freshservice_logo.jpg)
 ![Pingdom](https://cdn.pagertree.com/wp-content/uploads/2017/03/pingdom-cropped.png)
+|
 ![New Relic](https://cdn.pagertree.com/wp-content/uploads/2017/03/newrelic-logo-cropped.png)
 ![ServiceNow](https://cdn.pagertree.com/wp-content/uploads/2017/03/servicenow_logo_1.jpg)
-![Web Hooks](https://cdn.pagertree.com/wp-content/uploads/2017/05/webhook-logo.png)
 ![Zendesk](https://cdn.pagertree.com/wp-content/uploads/2015/10/zendesk-logo-cropped.png)
 +++
 
