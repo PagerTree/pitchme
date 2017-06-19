@@ -102,8 +102,7 @@ PagerTree reduces reduce downtime by connecting all monitoring systems, aggregat
 
 PagerTree reduces downtime by connecting all monitoring systems, aggregating alerts to a single place, and making sure you always receive the alert.
 
-###### Signup for a free trial at
-[pagertree.com](https://app.pagertree.com/#/?lm=signup)
+Signup for a free trial at [app.pagertree.com](https://app.pagertree.com/#/?lm=signup)
 ---
 
 ### Resources
