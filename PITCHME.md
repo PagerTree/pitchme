@@ -86,7 +86,7 @@ PagerTree reduces reduce downtime by connecting all monitoring systems, aggregat
   * Build founding team
 * 5-7 Year Goal
   * 2,000 companies / 40,000 users
-  * 40,000 users * $10/subscription = $400,000/month = $4.8M/year
+  * 40,000 users * $10/subscription = $400K/month = $4.8M/year
 ---
 
 ### Outlook
@@ -102,7 +102,7 @@ PagerTree reduces reduce downtime by connecting all monitoring systems, aggregat
 
 PagerTree reduces downtime by connecting all monitoring systems, aggregating alerts to a single place, and making sure you always receive the alert.
 
-Signup for a free trial at [pagertree.com](https://app.pagertree.com/#/?lm=signup)
+###### Signup for a free trial at [pagertree.com](https://app.pagertree.com/#/?lm=signup)
 ---
 
 ### Resources
