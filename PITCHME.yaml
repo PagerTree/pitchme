@@ -1,7 +1,7 @@
 theme : black
 logo : assets/img/pagertree_black_transparent@85px_h.png
 theme-override : assets/css/pagertree-black.css
-footnote : "© PagerTree LLC."
+footnote : "© PagerTree LLC. www.pagertree.com"
 slide-number: true
 transition : slide # convex, concave, default, fade, none, slide, zoom
 vertical-center : true

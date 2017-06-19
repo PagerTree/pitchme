@@ -22,7 +22,7 @@ Every minute of downtime [costs](https://pagertree.com/wp-content/uploads/2017/0
 
 Reduce downtime by connecting all monitoring systems, aggregating alerts to a single place, and making sure you always receive the alert.
 
-Key Features
+### Key Features
 * On-Call Schedules & Escalation Rules
 * Reliable Alerts (SMS, Email, Voice, Push)
 * 3rd Party integrations
@@ -47,7 +47,7 @@ Who uses PagerTree?
 ### Business Model
 
 * SaaS Subscription
-  * Software sold on a /user/month basis
+  * Software sold on a [/user/month](https://pagertree.com/pricing) basis
 * Who we target
   * SaaS Companies (10+ people)
   * Internal IT Departments (50+ people)
@@ -100,6 +100,8 @@ Who uses PagerTree?
 ### Summary
 
 PagerTree reduces downtime by connecting all monitoring systems, aggregating alerts to a single place, and making sure you always receive the alert.
+
+### Signup for a free trial at [app.pagertree.com](https://app.pagertree.com/#/?lm=signup)
 ---
 
 ### Resources
@@ -138,7 +140,9 @@ OpsGenie | $3M | Falls Church, VA
 +++
 
 ### Links
+[Signup](https://app.pagertree.com/#/?lm=signup)
 [Costs of IT Outage](https://pagertree.com/wp-content/uploads/2017/06/cost-of-it-outage.pdf)
 [Referral Program](https://pagertree.com/referral-program/)
+[Pricing](https://pagertree.com/pricing)
 [Market Data SaaS](http://www.ironpaper.com/webintel/articles/saas-market-size-forecast/)
 [Market Data Web Hosting](https://www.ibisworld.com/industry-trends/specialized-market-research-reports/technology/computer-services/internet-hosting-services.html)
