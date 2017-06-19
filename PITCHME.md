@@ -112,12 +112,12 @@ PagerTree reduces downtime by connecting all monitoring systems, aggregating ale
   - Mentor / Strategic Vision / Experience
   - Developer / Marketing / Customer Support
 
----
++++
 ### Competitors
 PagerDuty ($14.8M) - San Francisco, CA
 VictorOps ($4.8M) - Boulder, CO
 OpsGenie ($3M) - Falls Church, VA
----
++++
 #### How PagerTree Works
 
 ![How PagerTree Works](https://cdn.pagertree.com/wp-content/uploads/2015/10/info_graphic_2x-1024x482.png)
