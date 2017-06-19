@@ -128,11 +128,11 @@ OpsGenie | $3M | Falls Church, VA
 +++
 
 ### Links
-* [www.pagertree.com](https://pagertree.com)
+* [Website](https://pagertree.com)
 * [Signup](https://app.pagertree.com/#/?lm=signup)
-* [Costs of IT Outage](https://pagertree.com/wp-content/uploads/2017/06/cost-of-it-outage.pdf)
-* [Referral Program](https://pagertree.com/referral-program/)
-* [Integrations](pagertree.com/integrations/)
 * [Pricing](https://pagertree.com/pricing)
+* [Integrations](pagertree.com/integrations/)
+* [Referral Program](https://pagertree.com/referral-program/)
+* [Costs of IT Outage](https://pagertree.com/wp-content/uploads/2017/06/cost-of-it-outage.pdf)
 * [Market Data SaaS](http://www.ironpaper.com/webintel/articles/saas-market-size-forecast/)
 * [Market Data Web Hosting](https://www.ibisworld.com/industry-trends/specialized-market-research-reports/technology/computer-services/internet-hosting-services.html)
