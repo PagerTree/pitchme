@@ -25,7 +25,7 @@ Reduce downtime by connecting all monitoring systems, aggregating alerts to a si
 ### Key Features
 * On-Call Schedules & Escalation Rules
 * Reliable Alerts (SMS, Email, Voice, Push)
-* 3rd Party integrations
+* 3rd Party [integrations](pagertree.com/integrations/)
 * Performance Analytics
 
 ---
@@ -130,6 +130,7 @@ OpsGenie | $3M | Falls Church, VA
 * [Signup](https://app.pagertree.com/#/?lm=signup)
 * [Costs of IT Outage](https://pagertree.com/wp-content/uploads/2017/06/cost-of-it-outage.pdf)
 * [Referral Program](https://pagertree.com/referral-program/)
+* [Integrations](pagertree.com/integrations/)
 * [Pricing](https://pagertree.com/pricing)
 * [Market Data SaaS](http://www.ironpaper.com/webintel/articles/saas-market-size-forecast/)
 * [Market Data Web Hosting](https://www.ibisworld.com/industry-trends/specialized-market-research-reports/technology/computer-services/internet-hosting-services.html)
