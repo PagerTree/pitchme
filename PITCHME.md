@@ -80,20 +80,19 @@ Who uses PagerTree?
 
 ---
 
-### Outlook and Vision
+### Outlook & Vision
 
 * Lifestyle Business
-  * Build highest quality on-call tool
-  * Build small team 15-20 highly motivated individuals
-  * Build a great working environment
-  * Build community outreach (volunteer and mentor)
+  * Highest quality on-call tool
+  * Small team (15-20 people)
+  * Great work environment
+  * Community outreach
 * 2017 Goals
-  * 50 Companies / 1000 users / 4 (200+ user) accounts
+  * 50 companies, 1000 users, 4 (200+ user) accounts
   * Build founding team
 * 5-7 Year Goal
-  * 2,000 companies ~ 20 users = 40,000 users
-  * 40,000 users * $10 subscription = $400,000 / month
-  * $400,000/month = $4.8M/year
+  * 2,000 companies, 40,000 users
+  * 40,000 users * $10 subscription = $400,000 / month = $4.8M/year
 
 ---
 
@@ -101,7 +100,7 @@ Who uses PagerTree?
 
 PagerTree reduces downtime by connecting all monitoring systems, aggregating alerts to a single place, and making sure you always receive the alert.
 
-### Signup for a free trial at [app.pagertree.com](https://app.pagertree.com/#/?lm=signup)
+Signup for a free trial at [app.pagertree.com](https://app.pagertree.com/#/?lm=signup)
 ---
 
 ### Resources
@@ -127,22 +126,22 @@ OpsGenie | $3M | Falls Church, VA
 +++
 
 ### Integrations
-[AWS Web Services](https://cdn.pagertree.com/wp-content/uploads/2017/03/aws-cropped.png)
-[APEX Ping](https://cdn.pagertree.com/wp-content/uploads/2017/03/apexping-cropped-1.png)
-[AppDynamics](https://cdn.pagertree.com/wp-content/uploads/2017/03/appdynamics-cropped.png)
-[Datadog](https://cdn.pagertree.com/wp-content/uploads/2017/03/datadog-logo-512-150.png)
-[Freshservice](https://cdn.pagertree.com/wp-content/uploads/2017/03/freshservice_logo.jpg)
-[Pingdom](https://cdn.pagertree.com/wp-content/uploads/2017/03/pingdom-cropped.png)
-[New Relic](https://cdn.pagertree.com/wp-content/uploads/2017/03/newrelic-logo-cropped.png)
-[ServiceNow](https://cdn.pagertree.com/wp-content/uploads/2017/03/servicenow_logo_1.jpg)
-[Web Hooks](https://cdn.pagertree.com/wp-content/uploads/2017/05/webhook-logo.png)
-[Zendesk](https://cdn.pagertree.com/wp-content/uploads/2015/10/zendesk-logo-cropped.png)
+![AWS Web Services](https://cdn.pagertree.com/wp-content/uploads/2017/03/aws-cropped.png)
+![APEX Ping](https://cdn.pagertree.com/wp-content/uploads/2017/03/apexping-cropped-1.png)
+![AppDynamics](https://cdn.pagertree.com/wp-content/uploads/2017/03/appdynamics-cropped.png)
+![Datadog](https://cdn.pagertree.com/wp-content/uploads/2017/03/datadog-logo-512-150.png)
+![Freshservice](https://cdn.pagertree.com/wp-content/uploads/2017/03/freshservice_logo.jpg)
+![Pingdom](https://cdn.pagertree.com/wp-content/uploads/2017/03/pingdom-cropped.png)
+![New Relic](https://cdn.pagertree.com/wp-content/uploads/2017/03/newrelic-logo-cropped.png)
+![ServiceNow](https://cdn.pagertree.com/wp-content/uploads/2017/03/servicenow_logo_1.jpg)
+![Web Hooks](https://cdn.pagertree.com/wp-content/uploads/2017/05/webhook-logo.png)
+![Zendesk](https://cdn.pagertree.com/wp-content/uploads/2015/10/zendesk-logo-cropped.png)
 +++
 
 ### Links
-[Signup](https://app.pagertree.com/#/?lm=signup)
-[Costs of IT Outage](https://pagertree.com/wp-content/uploads/2017/06/cost-of-it-outage.pdf)
-[Referral Program](https://pagertree.com/referral-program/)
-[Pricing](https://pagertree.com/pricing)
-[Market Data SaaS](http://www.ironpaper.com/webintel/articles/saas-market-size-forecast/)
-[Market Data Web Hosting](https://www.ibisworld.com/industry-trends/specialized-market-research-reports/technology/computer-services/internet-hosting-services.html)
+* [Signup](https://app.pagertree.com/#/?lm=signup)
+* [Costs of IT Outage](https://pagertree.com/wp-content/uploads/2017/06/cost-of-it-outage.pdf)
+* [Referral Program](https://pagertree.com/referral-program/)
+* [Pricing](https://pagertree.com/pricing)
+* [Market Data SaaS](http://www.ironpaper.com/webintel/articles/saas-market-size-forecast/)
+* [Market Data Web Hosting](https://www.ibisworld.com/industry-trends/specialized-market-research-reports/technology/computer-services/internet-hosting-services.html)
