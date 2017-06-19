@@ -32,7 +32,6 @@ Reduce downtime by connecting all monitoring systems, aggregating alerts to a si
 
 ### Market Opportunity
 
-Who uses PagerTree?
 * [SaaS Companies](http://www.ironpaper.com/webintel/articles/saas-market-size-forecast/)
   * Market Size $37.7B
   * Growth 20.3%
@@ -64,15 +63,15 @@ Who uses PagerTree?
   * Easiest to use
 * Growing Revenue
   * Partners / Influencers
-  * Inbound Marketing (Blog + Education)
-  * Referral Program (Organic + Paid)
+  * Inbound Marketing
+  * Referral Program
 
 ---
 
 ### Traction
 * Channels
-  * SEO & SEM (Proven)
-  * Email Marketing (Proven)
+  * SEO & SEM
+  * Email Marketing
   * Trade Shows
 * Since Launch (April '17)
   * 18 Signups
@@ -81,11 +80,11 @@ Who uses PagerTree?
 ---
 ### Goals
 * 2017 Goals
-  * 50 companies, 1000 users, 4 (200+ user) accounts
+  * 50 companies / 1000 users / 4 (200+ user) accounts
   * Build founding team
 * 5-7 Year Goal
-  * 2,000 companies, 40,000 users
-  * 40,000 users * $10 subscription = $400,000 / month = $4.8M/year
+  * 2,000 companies / 40,000 users
+  * 40,000 users * $10/subscription = $400,000/month = $4.8M/year
 ---
 
 ### Outlook
@@ -101,7 +100,7 @@ Who uses PagerTree?
 
 PagerTree reduces downtime by connecting all monitoring systems, aggregating alerts to a single place, and making sure you always receive the alert.
 
-Signup for a free trial at [app.pagertree.com](https://app.pagertree.com/#/?lm=signup)
+Signup for a free trial at [pagertree.com](https://app.pagertree.com/#/?lm=signup)
 ---
 
 ### Resources
