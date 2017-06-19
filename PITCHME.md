@@ -6,7 +6,7 @@
 
 ---
 
-### The Problem
+### Problem
 
 IT Operations Groups are responsible for maintaining 99.999% uptime for business applications.
 
@@ -18,9 +18,11 @@ Every minute of downtime [costs](https://pagertree.com/wp-content/uploads/2017/0
 
 ---
 
-### PagerTree
+### Solution
 
-Reduce downtime by connecting all monitoring systems, aggregating alerts to a single place, and making sure you always receive the alert.
+PagerTree reduces reduce downtime by connecting all monitoring systems, aggregating alerts to a single place, and making sure you always receive the alert.
+
+---
 
 ### Key Features
 * On-Call Schedules & Escalation Rules
@@ -126,6 +128,7 @@ OpsGenie | $3M | Falls Church, VA
 +++
 
 ### Links
+* [www.pagertree.com](https://pagertree.com)
 * [Signup](https://app.pagertree.com/#/?lm=signup)
 * [Costs of IT Outage](https://pagertree.com/wp-content/uploads/2017/06/cost-of-it-outage.pdf)
 * [Referral Program](https://pagertree.com/referral-program/)
