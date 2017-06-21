@@ -36,7 +36,7 @@ PagerTree is a tool that reduces downtime by connecting monitoring systems, aggr
 ### Key Features
 * Centralized System
 * Simple Interface
-* Intellegent Routing
+* Intelligent Routing
 * Reliable Alerts
 * Performance Analytics
 * 3rd Party [Integrations](pagertree.com/integrations/)
