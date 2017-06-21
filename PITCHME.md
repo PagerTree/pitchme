@@ -20,7 +20,7 @@ Every minute of downtime [costs](https://pagertree.com/wp-content/uploads/2017/0
 
 ### Solution
 
-PagerTree is a Software as a Service that reduces downtime by connecting monitoring systems, aggregating alerts, and providing reliable notifications.
+PagerTree is a tool that reduces downtime by connecting monitoring systems, aggregating alerts, and providing reliable notifications.
 
 ---
 
